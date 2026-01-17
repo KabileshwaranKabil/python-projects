@@ -71,8 +71,19 @@ By working on this project, you will understand:
 - Proper use of database connections and cursors
 
 ## Output
-![output1](outputs/out1.png)
-![output2](outputs/out2.png)
-![output3](outputs/out3.png)
-![output4](outputs/out4.png)
-![output5](outputs/out5.png)
+
+<p align="center">
+  <img src="outputs/out1.png" alt="Project Screenshot1" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
+<p align="center">
+  <img src="outputs/out2.png" alt="Project Screenshot1" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
+<p align="center">
+  <img src="outputs/out3.png" alt="Project Screenshot1" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
+<p align="center">
+  <img src="outputs/out4.png" alt="Project Screenshot1" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
+<p align="center">
+  <img src="outputs/out5.png" alt="Project Screenshot1" style="max-width:100%; height:auto; border-radius:10px;">
+</p>
