@@ -71,8 +71,8 @@ By working on this project, you will understand:
 - Proper use of database connections and cursors
 
 ## Output
-![output1](/outputs/out1.png)
-![output2](/outputs/out2.png)
-![output3](/outputs/out3.png)
-![output4](/outputs/out4.png)
-![output5](/outputs/out5.png)
+![output1](outputs/out1.png)
+![output2](outputs/out2.png)
+![output3](outputs/out3.png)
+![output4](outputs/out4.png)
+![output5](outputs/out5.png)
