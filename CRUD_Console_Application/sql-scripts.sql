@@ -1,0 +1,10 @@
+CREATE DATABASE StudentsDB;
+USE StudentsDB;
+CREATE TABLE Students(
+	RegNo VARCHAR(20) PRIMARY KEY,
+    Name VARCHAR(100),
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    Address VARCHAR(255)
+);
+DESC Students;
+SELECT * FROM Students;
