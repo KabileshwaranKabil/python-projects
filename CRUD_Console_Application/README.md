@@ -7,7 +7,9 @@ The project uses the `mysql-connector-python` library to establish a connection 
 
 ## 📌 Project Overview
 
-The application performs basic **CRUD operations** on a student database.
+The application performs basic **CRUD operations** on a student database.I have used **MYSQL** for *database*.
+
+You can get mysql scripts **[here](sql-scripts.sql)**
 
 - **Database Name:** `StudentsDB`
 - **Table Name:** `Students`
